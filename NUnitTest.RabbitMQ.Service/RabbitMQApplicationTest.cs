@@ -4,7 +4,7 @@ using Wonga.Service.Consumer.RabbitMQService;
 
 namespace NUnitTest.RabbitMQ.Service
 {
-    public class Tests
+    public class RabbitMQApplicationTest
     {
         [SetUp]
         public void Setup()
